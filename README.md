@@ -1,0 +1,1 @@
+# This is a spotify clone developed using HTML, vanilla css, Javascript.
